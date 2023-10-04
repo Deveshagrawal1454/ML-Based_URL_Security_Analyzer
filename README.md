@@ -1,4 +1,4 @@
-# Detection_of_Malicious_URLs_using_Lexical_features
+# ML-Based_URL_Security_Analyzer
 
 ## Problem Statement
 
